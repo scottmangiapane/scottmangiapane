@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Scott Mangiapane, a software engineer from Chicago, IL. I first started programming on my TI-84 graphing calculator in my high school math class. Since then I've been obsessed... Check out what I've been up to below.
 
 <!--
 **scottmangiapane/scottmangiapane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
