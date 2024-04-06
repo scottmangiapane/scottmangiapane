@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Scott Mangiapane, a software engineer from Chicago, IL. I first started programming on my TI-84 graphing calculator in my high school math class. Since then I've been obsessed... Check out what I've been up to below.
+I'm Scott Mangiapane, a software engineer from Chicago, IL. I first started programming on my TI-84 graphing calculator back in high school math class. Since then I've been obsessed... Check out what I've been up to below.
 
 > "Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 > 
