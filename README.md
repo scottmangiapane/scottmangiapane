@@ -7,5 +7,3 @@ I'm Scott Mangiapane, a senior software engineer in Chicago, IL. I first started
 
 | ![Scott Mangiapane's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmangiapane&hide=contribs,issues,prs&rank_icon=github&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmangiapane&hide_border=true&layout=compact) |
 | ------------- | ------------- |
-
-![](https://komarev.com/ghpvc/?username=scottmangiapane)
