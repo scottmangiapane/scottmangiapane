@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Scott Mangiapane&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 155</desc>
+        <title id="titleId">Scott Mangiapane&#39;s GitHub Stats, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 146</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 156.96026182959386;
+        stroke-dashoffset: 157.64892646455175;
       }
     }
   
@@ -169,7 +169,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >155</text>
+      >146</text>
     </g>
   </g>
     </svg>
